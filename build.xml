@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'windows-1252'?> 
+
+<project name="Build" default="make" basedir=".">
+	<target name="make">
+	
+	<tstamp/>
+	
+	</target>
+</project>
